@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pandas
+jinja2
+scikit-learn
+matplotlib
+seaborn
+python-multipart
+streamlit
+plotly
+numpy
+mlxtend
